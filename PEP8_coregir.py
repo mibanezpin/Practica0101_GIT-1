@@ -1,7 +1,10 @@
 # script.py
 import os
 import sys
-def MiFuncionSuma(A, B, C, imprime = True):
+def Mi_Funcion_Suma(A,
+                    B,
+                    C,)
+    imprime(True)
     resultado=A+B+C
     if imprime != False:
         print(resultado)
