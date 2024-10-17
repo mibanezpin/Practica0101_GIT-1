@@ -3,10 +3,10 @@ import os
 import sys
 def Mi_Funcion_Suma(A,
                     B,
-                    C,)
-    imprime(True)
+                    C,
+                    imprime = True)
 resultado = A + B + C
-    if imprime != False:
+    if imprime ! = False:
         print(resultado)
     return resultado
 a          = 4
